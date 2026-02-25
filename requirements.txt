@@ -1,0 +1,10 @@
+# Core requirements
+numpy>=1.24.0
+
+# Optional: if you want reproducibility and JSON handling (already in stdlib, so not strictly needed)
+# json is part of Python standard library, no need to list
+# math and random are also standard library modules
+
+# Development tools (optional, if you want linting/formatting)
+# black
+# flake8
